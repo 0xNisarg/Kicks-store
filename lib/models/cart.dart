@@ -26,18 +26,6 @@ class Cart extends ChangeNotifier {
         price: '800',
         imagepath: 'lib/images/AirJordanMid.png',
         description: 'Air Jordan 1 Mid Yellow'),
-    Shoe(
-        name: 'Air Jordan 1 Panda',
-        price: '1300',
-        imagepath: 'lib/images/AirJordan1Panda.png',
-        description: 'Air Jordan 1 Panda High'),
-    Shoe(
-        name: 'Air Jordan 1 High OG',
-        price: '1700',
-        imagepath: 'lib/images/AirJordanHighBlue.png',
-        description: 'Air Jordan 1 Blue High OG'),
-        
-        
   ];
 
 
